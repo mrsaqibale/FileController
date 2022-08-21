@@ -10,4 +10,7 @@
 > python main.py
 
 ***
-#### First enter the file form which you want to search data, then write the data you want to search, then write the name of new file or set the path. And then no of line you want to print, OKAY
+#### First enter the file form which you want to search data, then write the data you want to search, then write the name of new file or set the path. And then no of line you want to print, OKAY 
+
+***
+![second](output/02.png)
